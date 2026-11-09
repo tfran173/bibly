@@ -1,0 +1,17 @@
+{
+  "name": "Bibly - Biblia para todos",
+  "short_name": "Bibly",
+  "description": "Lee la Biblia, sigue planes de lectura, anota y gana medallas.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffe6af",
+  "theme_color": "#ffd696",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

@@ -1,0 +1,10 @@
+BIBLY - Biblia para todos (app instalable)
+
+Contenido:
+  index.html            la app completa
+  manifest.webmanifest  nombre, colores e iconos para instalar
+  sw.js                 permite abrirla sin internet
+  icons/                iconos de la app
+
+Para publicarla en GitHub Pages, sube TODOS estos archivos
+(y la carpeta icons) a la raiz de un repositorio publico.
